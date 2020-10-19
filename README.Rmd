@@ -4,6 +4,7 @@ author: "Amanda Ramdass"
 date: "10/19/2020"
 output: html_document
 ---
+
 # Getting and Cleaning Data Project- data
 Data Zip File Location: [UC Irvine Repo](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip "Clicking will download the data")
 
@@ -37,6 +38,3 @@ Submit |  Pull Request
 ## License
 
 Anyone may contribute after this assignment is turned in and graded. 
-
-
-
